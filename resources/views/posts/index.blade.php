@@ -5,6 +5,7 @@
     <div class="row">
         <div class="col-md-12">
             <div>
+                <h1 class="text-center my-4">BELAJAR LARAVEL</h1>
                 <h3 class="text-center my-4">Tutorial Laravel 10</h3>
                 <hr>
             </div>
